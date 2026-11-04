@@ -48,11 +48,4 @@ Unlike modern heavy web apps, this game runs completely offline inside your brow
 
 ## 🎮 Gameplay Demo
 
-*(Add a GIF or screenshot of your game here!)*
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=Game+Screenshot+/+GIF+Here" alt="Fishing Game Screenshot" width="80%" style="border-radius: 10px;" />
-</div>
-
----
 
