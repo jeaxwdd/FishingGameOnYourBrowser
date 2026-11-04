@@ -9,14 +9,6 @@
   <sub>No servers, no dependencies, no installation needed — just pure web fun!</sub>
 </p>
 
-<!-- Shield Badges -->
-<p align="center">
-  <a href="https://github.com/your-username/fishing-game/stargazers"><img src="https://img.shields.io/github/stars/your-username/fishing-game?style=for-the-badge&color=yellow" alt="Stars"></a>
-  <a href="https://github.com/your-username/fishing-game/network/members"><img src="https://img.shields.io/github/forks/your-username/fishing-game?style=for-the-badge&color=orange" alt="Forks"></a>
-  <a href="https://github.com/your-username/fishing-game/issues"><img src="https://img.shields.io/github/issues/your-username/fishing-game?style=for-the-badge&color=brightgreen" alt="Issues"></a>
-  <a href="https://github.com/your-username/fishing-game/blob/main/LICENSE"><img src="https://img.shields.io/github/license/your-username/fishing-game?style=for-the-badge&color=blue" alt="License"></a>
-</p>
-
 <!-- Tech Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -26,9 +18,9 @@
 
 <!-- Navigation -->
 <p align="center">
+  <a href="#-how-to-play--quick-start">How to Play</a> •
   <a href="#-about-the-project">About</a> •
   <a href="#-gameplay-demo">Demo</a> •
-  <a href="#-quick-start">Quick Start</a> •
   <a href="#-features">Features</a> •
   <a href="#-tech-stack">Tech Stack</a> •
   <a href="#-contributing">Contributing</a>
@@ -38,14 +30,7 @@
 
 </div>
 
-## 📌 About The Project
+## 🚀 How to Play & Quick Start
 
-**Fishing Game** is a lightweight, pure **Vanilla JS** arcade fishing simulator designed for quick gaming breaks and instant play. 
-
-Unlike modern heavy web apps, this game runs completely offline inside your browser without needing node servers, npm packages, or build tools. You just clone it, double-click `index.html`, and you are ready to cast your rod! 🌊🎣
-
----
-
-## 🎮 Gameplay Demo
-
+> **⚠️ The Easiest Way (Just Open It!):** Simply download or clone the project, and double-click the **`index.html`** file inside the folder! The game will launch instantly in your default web browser. 🌐✨
 
